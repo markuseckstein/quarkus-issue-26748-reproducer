@@ -6,3 +6,7 @@ Tests pass with Quarkus 2.9.2.Final.
 
 Tests fail starting with Quarkus 2.10.0.Final.
 
+
+## Run tests
+
+`mvn clean test`
